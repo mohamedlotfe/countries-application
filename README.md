@@ -11,11 +11,11 @@
 ## The Architecture Design 
 
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://github.com/mohamedlotfe/nestjs-keycloak-auth/blob/main/public/flow.png"  alt="Nest Logo" /></a>
+  <a href="http://nestjs.com/" target="blank"><img src="https://github.com/mohamedlotfe/countries-application/blob/main/frontend/public/main-countries.png"  alt="Nest Logo" /></a>
 </p>
 
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://github.com/mohamedlotfe/nestjs-keycloak-auth/blob/main/public/flow.png"  alt="Nest Logo" /></a>
+  <a href="http://nestjs.com/" target="blank"><img src="https://github.com/mohamedlotfe/countries-application/blob/main/frontend/public/countryfliter.png"  alt="Nest Logo" /></a>
 </p>
 
 ## Running using docker
